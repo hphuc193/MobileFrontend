@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HomeWork_Week2"
+rootProject.name = "hotel"
 include(":app")
+ 
